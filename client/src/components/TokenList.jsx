@@ -8,8 +8,8 @@ const dummyTokens = [
 
 const TokenList = () => {
   return (
-    <div className="mt-8">
-      <h2 className="text-xl font-semibold mb-4 text-center text-gray-700">
+    <div className="w-full bg-white p-8 rounded-xl shadow-lg">
+      <h2 className="text-2xl font-bold mb-4 text-center text-gray-700">
         Current Tokens
       </h2>
       <div className="space-y-4">
